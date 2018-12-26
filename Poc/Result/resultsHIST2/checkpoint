@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/gpudb/fraudcase/resultsHIST2/model.ckpt-47000"
+all_model_checkpoint_paths: "/home/gpudb/fraudcase/resultsHIST2/model.ckpt-45000"
+all_model_checkpoint_paths: "/home/gpudb/fraudcase/resultsHIST2/model.ckpt-45001"
+all_model_checkpoint_paths: "/home/gpudb/fraudcase/resultsHIST2/model.ckpt-46000"
+all_model_checkpoint_paths: "/home/gpudb/fraudcase/resultsHIST2/model.ckpt-46001"
+all_model_checkpoint_paths: "/home/gpudb/fraudcase/resultsHIST2/model.ckpt-47000"
